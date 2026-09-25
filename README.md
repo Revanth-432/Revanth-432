@@ -79,12 +79,6 @@ A responsive discovery platform promoting eco-cultural destinations in Jharkhand
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revanth-432&show_icons=true&theme=radium&hide_border=true" alt="Revanth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revanth-432&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Revanth-432&show_icons=true&theme=radium&hide_border=true&v=1" alt="Revanth's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revanth-432&layout=compact&theme=radium&hide_border=true&v=1" alt="Top Languages" width="48%" />
 </div>
@@ -92,7 +86,7 @@ A responsive discovery platform promoting eco-cultural destinations in Jharkhand
 <br>
 
 <div align="center">
-  <!-- 🔥 Contribution Streak (This one is already working, leaving it as is) -->
+  <!-- 🔥 Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revanth-432&theme=radium&hide_border=true" alt="Revanth's GitHub Streak" />
 </div>
 
